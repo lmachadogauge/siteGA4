@@ -2,8 +2,8 @@ import { useState } from 'react';
 
 function Home() {
     return <div>
-        <h1>Página do seu Lucas </h1>
-        <h2>cic >> adm </h2>
+        <h1>Página de teste </h1>
+        <h2>criada para aprender ga4</h2>
         <Contador />
         
         </div>
@@ -31,5 +31,6 @@ function Contador(){
     )    
 
 }
+
 
 export default Home
